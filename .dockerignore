@@ -1,0 +1,26 @@
+# git 配置
+.git/
+.github/
+
+# 编辑器配置
+.vscode/
+
+# 依赖模块
+node_modules/
+
+# 编译文件
+dist/
+
+# 构建文件
+Dockerfile
+
+# 我添加的
+图片/
+翻译说明.md
+修改说明.md
+本地调试命令记录.md
+
+# 其他
+LICENSE
+README.md
+
